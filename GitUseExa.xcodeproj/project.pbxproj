@@ -18,6 +18,7 @@
 		D31A3E76171E9C0F00BE265C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D31A3E75171E9C0F00BE265C /* Default-568h@2x.png */; };
 		D31A3E79171E9C0F00BE265C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D31A3E78171E9C0F00BE265C /* ViewController.m */; };
 		D31A3E7C171E9C0F00BE265C /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D31A3E7A171E9C0F00BE265C /* ViewController.xib */; };
+		D31A3E84171EBA8900BE265C /* MapOfUs.m in Sources */ = {isa = PBXBuildFile; fileRef = D31A3E83171EBA8900BE265C /* MapOfUs.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		D31A3E77171E9C0F00BE265C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D31A3E78171E9C0F00BE265C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D31A3E7B171E9C0F00BE265C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		D31A3E82171EBA8900BE265C /* MapOfUs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapOfUs.h; sourceTree = "<group>"; };
+		D31A3E83171EBA8900BE265C /* MapOfUs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapOfUs.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 			children = (
 				D31A3E6E171E9C0F00BE265C /* AppDelegate.h */,
 				D31A3E6F171E9C0F00BE265C /* AppDelegate.m */,
+				D31A3E82171EBA8900BE265C /* MapOfUs.h */,
+				D31A3E83171EBA8900BE265C /* MapOfUs.m */,
 				D31A3E77171E9C0F00BE265C /* ViewController.h */,
 				D31A3E78171E9C0F00BE265C /* ViewController.m */,
 				D31A3E7A171E9C0F00BE265C /* ViewController.xib */,
@@ -176,6 +181,7 @@
 				D31A3E6C171E9C0F00BE265C /* main.m in Sources */,
 				D31A3E70171E9C0F00BE265C /* AppDelegate.m in Sources */,
 				D31A3E79171E9C0F00BE265C /* ViewController.m in Sources */,
+				D31A3E84171EBA8900BE265C /* MapOfUs.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
