@@ -19,6 +19,7 @@
 		D31A3E79171E9C0F00BE265C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D31A3E78171E9C0F00BE265C /* ViewController.m */; };
 		D31A3E7C171E9C0F00BE265C /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D31A3E7A171E9C0F00BE265C /* ViewController.xib */; };
 		D31A3E84171EBA8900BE265C /* MapOfUs.m in Sources */ = {isa = PBXBuildFile; fileRef = D31A3E83171EBA8900BE265C /* MapOfUs.m */; };
+		D31A3E86171EBB6C00BE265C /* all-offices-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D31A3E85171EBB6C00BE265C /* all-offices-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		D31A3E7B171E9C0F00BE265C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		D31A3E82171EBA8900BE265C /* MapOfUs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapOfUs.h; sourceTree = "<group>"; };
 		D31A3E83171EBA8900BE265C /* MapOfUs.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapOfUs.m; sourceTree = "<group>"; };
+		D31A3E85171EBB6C00BE265C /* all-offices-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "all-offices-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				D31A3E82171EBA8900BE265C /* MapOfUs.h */,
 				D31A3E83171EBA8900BE265C /* MapOfUs.m */,
 				D31A3E77171E9C0F00BE265C /* ViewController.h */,
+				D31A3E85171EBB6C00BE265C /* all-offices-icon.png */,
 				D31A3E78171E9C0F00BE265C /* ViewController.m */,
 				D31A3E7A171E9C0F00BE265C /* ViewController.xib */,
 				D31A3E66171E9C0F00BE265C /* Supporting Files */,
@@ -168,6 +171,7 @@
 				D31A3E74171E9C0F00BE265C /* Default@2x.png in Resources */,
 				D31A3E76171E9C0F00BE265C /* Default-568h@2x.png in Resources */,
 				D31A3E7C171E9C0F00BE265C /* ViewController.xib in Resources */,
+				D31A3E86171EBB6C00BE265C /* all-offices-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
